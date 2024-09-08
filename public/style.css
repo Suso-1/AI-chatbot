@@ -1,0 +1,13 @@
+.left {
+    background-color: #9d9de4;
+}
+
+.home {
+    background-color: #76768a;
+    box-shadow: 2px 2px 6px;
+}
+
+.logo {
+    object-fit: cover;
+    object-position: top;
+}
